@@ -14,13 +14,14 @@
     10. <a href="https://github.com/redis/redis-om-spring/issues/372">Count and NoContent queries runs two queries on searchstream "close" invocation</a>
     11. <a href="https://github.com/redis/redis-om-spring/issues/397">Schema model creation is skipped if index exists</a>
     12. <a href="https://github.com/redis/redis-om-spring/issues/396">With 0.8.9 version, Index creation gets skip because of @Indexed field</a>
-- ### Designing and Creating <a href="https://github.com/Rohan-RPJ/invoice-mgmt-system-rpj">Invoice Management System WebApp</a>:
-  * **Project**: Web-based Application for generating **Invoices** and **Bills**
+- ### Designed and Created <a href="https://github.com/Rohan-RPJ/invoice-mgmt-system-rpj">Invoice Management System WebApp</a>:
+  * **Project**: Developed a web-based application for generating **Invoices** and **Bills**
   * **Target Users**: Businesses and Individuals
   * **Technologies Used**:
-    * **NextJS**: ReactJS Framework to build frontend components and backend apis, and provides other benefits like SSG (Static Site Generation), SSR(Server Side Rendering), Routing, Hot Code Reloading, Automatic Code Splitting, Incremental Static Generation etc.
-    * **ReactJS**: Javascript Library
-    * **Javascript**
+    * **NextJS**: Utilized this React.js framework to build frontend components and backend APIs, incorporating features such as Static Site Generation (SSG), Server-Side Rendering (SSR), routing, hot code reloading, automatic code splitting, and incremental static generation.
+    * **ReactJS**: Employed this JavaScript library to create dynamic user interfaces.
+    * **Tailwind CSS**: Used for designing responsive and visually appealing UI components.
+    * **Javascript**: Implemented for scripting and enhancing application functionality.
 - ### Designing and Creating <a href="https://github.com/Rohan-RPJ/InvoiceManagementMobile">Invoice Management System MobileApp</a>:
   * **Project**: Mobile-based Application for generating **Invoices** and **Bills**
   * **Target Users**: Businesses and Individuals
